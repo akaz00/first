@@ -1,4 +1,5 @@
 hello
+color: green
 world
 
 asd
